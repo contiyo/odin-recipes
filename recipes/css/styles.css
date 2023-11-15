@@ -1,0 +1,31 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.main-header {
+    text-align: center;
+    font-size: 40px;
+}
+
+.main-list {
+    color: blue;
+    font-size: 23px;
+}
+
+h2 {
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 18px;
+}
